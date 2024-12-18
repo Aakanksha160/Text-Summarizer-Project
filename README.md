@@ -20,6 +20,6 @@ The text summarizer uses a modular pipeline, allowing you to adjust the configur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/End-to-End-Text-Summarizer.git
+   https://github.com/Aakanksha160/Text-Summarizer-Project.git
    cd End-to-End-Text-Summarizer
 
