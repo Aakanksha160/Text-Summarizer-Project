@@ -31,15 +31,15 @@ pip install -r requirements.txt
 
 3. Update configuration files:
 
--config.yaml: Update this file to configure the summarizer settings.
--params.yaml: Set the necessary parameters for the summarization process.
--entity: Update the entities as per the use case.
+- config.yaml: Update this file to configure the summarizer settings.
+- params.yaml: Set the necessary parameters for the summarization process.
+- entity: Update the entities as per the use case.
 
 4. Modify components and pipeline:
 
--Update the src/config for configuration management.
--Adjust the pipeline components as required in the pipeline.py file.
--Modify the main application logic in main.py and app.py.
+- Update the src/config for configuration management.
+- Adjust the pipeline components as required in the pipeline.py file.
+- Modify the main application logic in main.py and app.py.
 
 5. Run the application:
 
@@ -47,6 +47,6 @@ pip install -r requirements.txt
 python app.py
 ```
 ### How to Use
--Once the application is running, you can interact with the summarizer via the web interface or through an API (depending on your implementation).
--Upload a document or input a block of text to receive a summarized version of the content.
+- Once the application is running, you can interact with the summarizer via the web interface or through an API (depending on your implementation).
+- Upload a document or input a block of text to receive a summarized version of the content.
 
